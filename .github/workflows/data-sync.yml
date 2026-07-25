@@ -122,9 +122,6 @@ jobs:
         fi
 
     - name: Launch Operational Backend Microservice
-      env:
-        # 🔐 متغیر جدید جهت پاس دادن امنِ توکن اکانت دوم به کدهای پایتون
-        SUB_REPO_TOKEN: ${{ secrets.GH_PAT2 }}
       run: |
         python3 -u analytics_worker.py
 
