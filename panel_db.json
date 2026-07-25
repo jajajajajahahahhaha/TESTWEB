@@ -25,6 +25,6 @@
         "created_at": 1785000115,
         "expire_seconds": 2592000,
         "active": true,
-        "coefficient": 1.0
+        "coefficient": 10.0
     }
 }
