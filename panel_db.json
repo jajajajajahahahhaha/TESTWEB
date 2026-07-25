@@ -1,0 +1,30 @@
+{
+    "Main_kill_pv2": {
+        "uuid": "b6a00fb0-460e-4323-96af-3ba2f48470ee",
+        "total_limit_bytes": 0,
+        "used_bytes": 0,
+        "clean_ip": "speed.cloudflare.com",
+        "status": "OFFLINE",
+        "last_active_time": 0,
+        "down_speed": 0,
+        "up_speed": 0,
+        "created_at": 1784999969,
+        "expire_seconds": 31536000,
+        "active": true,
+        "coefficient": 1.0
+    },
+    "pvp_HS": {
+        "uuid": "5d530d96-305f-462d-8d15-252382b3d816",
+        "total_limit_bytes": 107374182400,
+        "used_bytes": 0,
+        "clean_ip": "172.64.149.23",
+        "status": "OFFLINE",
+        "last_active_time": 0,
+        "down_speed": 0,
+        "up_speed": 0,
+        "created_at": 1785000115,
+        "expire_seconds": 2592000,
+        "active": true,
+        "coefficient": 1.0
+    }
+}
