@@ -4,13 +4,13 @@
         "total_limit_bytes": 107374182400,
         "used_bytes": 54172280957,
         "clean_ip": "172.64.149.23",
-        "status": "OFFLINE",
+        "status": "EXPIRED",
         "last_active_time": 1787591786.2749634,
         "down_speed": 0,
         "up_speed": 0,
         "created_at": 1785000115,
         "expire_seconds": 2592000,
-        "active": true,
+        "active": false,
         "coefficient": 10.0
     }
 }
