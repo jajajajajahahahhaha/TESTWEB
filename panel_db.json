@@ -9,7 +9,7 @@
         "down_speed": 0,
         "up_speed": 0,
         "created_at": 1785000115,
-        "expire_seconds": 2592000,
+        "expire_seconds": 25920002722,
         "active": false,
         "coefficient": 10.0
     }
