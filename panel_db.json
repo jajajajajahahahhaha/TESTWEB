@@ -16,12 +16,12 @@
     "SONA-JON-IPV4\ud83c\uddfa\ud83c\uddf8": {
         "uuid": "ec3cbce9-a344-4f45-9a55-1f53c3aeebe6",
         "total_limit_bytes": 107374182400,
-        "used_bytes": 2342486118,
+        "used_bytes": 2342715948,
         "clean_ip": "172.64.149.23",
-        "status": "ONLINE",
-        "last_active_time": 1795537546.3435638,
-        "down_speed": 739759,
-        "up_speed": 67366,
+        "status": "OFFLINE",
+        "last_active_time": 1795537569.962893,
+        "down_speed": 0,
+        "up_speed": 0,
         "created_at": 1795095421,
         "expire_seconds": 2592000,
         "active": true
